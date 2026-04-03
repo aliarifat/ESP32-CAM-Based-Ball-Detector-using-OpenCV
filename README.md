@@ -134,7 +134,11 @@ pip install requests
 
 
 ## 📂 Test
-```
-Upload the ESP32_Cam_basic.ino code to the ESP32 cam and run the python code in your computer while the ESP32 is connected to it.
-Test the code with a ball visible in the camera. 
-```
+
+Upload the ESP32_Cam_basic.ino code to the ESP32-Cam and run the Python code on your computer while the ESP32 is connected to it.
+Test the code with a ball visible in the camera.
+
+
+<img width="1293" height="1005" alt="Screenshot 2025-05-17 002828" src="https://github.com/user-attachments/assets/a1622d2a-31e7-4422-9193-a7a80bd25447" />
+
+
